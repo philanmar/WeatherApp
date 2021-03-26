@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2A77BD</color>
+    <color name="colorPrimaryDark">#024B85</color>
+    <color name="colorAccent">#0986C9</color>
+    <color name="cardViewBackground">#B6DAFF</color>
+    <color name="cityInputBackgroundColor">#4DFFFFFF</color>
+    <color name="textWhite">#FFFFFF</color>
+    <color name="textBlack">#000000</color>
+    <color name="lightGrey">#DADADA</color>
+    <color name="darkGrey">#9C9C9C</color>
+    <color name="darkBlue">#3556A8</color>
+    <color name="heartRed">#E40000</color>
+    <color name="Transparent">#00000000</color>
+
+</resources>
+

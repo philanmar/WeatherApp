@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WetterApp</string>
+    <string name="enterCity">Stadt eingeben</string>
+    <string name="search_for_gps">GPS suchen</string>
+    <string name="search_city">Stadt suchen</string>
+    <string name="drawer_open">Favoriten Anzeigen</string>
+    <string name="drawer_close">Favoriten verbergen</string>
+    <string name="weather_icon">Wetter Icon</string>
+    <string name="currentWeather">Aktuelles Wetter:</string>
+    <string name="button_to_safe_city_as_favorite">Stadt als Favoriten einspeichern</string>
+    <string name="weatherForecast">Wettervorhersage:</string>
+
+</resources>
